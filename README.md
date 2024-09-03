@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YokeshPichai
-- 👀 I’m interested in
+- 👀 I’m interested in Cloud Admin
 - 🌱 I’m currently learning Azure Devops
 - 💞️ I’m looking to collaborate on Cloud Administration & Devops
 - 📫 reach me on - yokeshraja99@gmail.com
